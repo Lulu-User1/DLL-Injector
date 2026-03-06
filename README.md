@@ -15,3 +15,7 @@
 
 ### - Bypass Security
 ####  (Run code under trusted processes, for example system or browser processes, evading detection by blending in with legitimate activity.)  
+
+## Video of Coding Proccess:
+https://www.youtube.com/watch?v=Fv19wMgHLbE
+https://www.youtube.com/watch?v=1O_n-RuSQgI
